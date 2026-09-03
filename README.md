@@ -80,4 +80,17 @@ python main.py
 
 Below is the verified output screenshot showing successful sequential data retrieval and answer synthesis using `gemini-3.6-flash`.
 
-*(Note: Replace `./assets/output_screenshot.png` with the actual path to your saved image!)*
+Question 01
+<img width="1608" height="544" alt="Screenshot 2026-09-03 095424" src="https://github.com/user-attachments/assets/d4caa073-5abc-4503-93ba-b12348c99bf4" />
+
+Question 02
+<img width="1616" height="748" alt="Screenshot 2026-09-03 095211" src="https://github.com/user-attachments/assets/7bd2e8ad-6791-49e7-878a-8912478060ff" />
+
+Question 03
+<img width="1624" height="674" alt="Screenshot 2026-09-03 094649" src="https://github.com/user-attachments/assets/7c58aa3a-5e86-4d75-aa4e-db22c89b28c0" />
+
+Question 04
+<img width="1610" height="630" alt="Screenshot 2026-09-03 100114" src="https://github.com/user-attachments/assets/cbe55211-7200-47df-b7f6-3b84d887b5f6" />
+
+
+
