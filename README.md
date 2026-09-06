@@ -95,5 +95,8 @@ Question 03
 Question 04
 <img width="1610" height="630" alt="Screenshot 2026-09-03 100114" src="https://github.com/user-attachments/assets/cbe55211-7200-47df-b7f6-3b84d887b5f6" />
 
+Semantic test 01
+<img width="1590" height="744" alt="image" src="https://github.com/user-attachments/assets/62499011-0b3f-4584-a38b-34c7434f87f8" />
+
 
 
