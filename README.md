@@ -6,6 +6,9 @@ The system takes user queries, extracts relevant snippets from a local knowledge
 
 Reference instruction: https://docs.google.com/document/d/1SX0s7Kqh75IPYSjdR7ziiCuroGthO3KO/edit?pli=1
 
+Reference articles:
+- https://theaiengineer.substack.com/p/what-is-semantic-search-f45
+
 ---
 
 ## 🛠️ Setup Instructions
