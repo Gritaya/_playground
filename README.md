@@ -8,6 +8,8 @@ Reference instruction: https://docs.google.com/document/d/1SX0s7Kqh75IPYSjdR7zii
 
 Reference articles:
 - https://theaiengineer.substack.com/p/what-is-semantic-search-f45
+- https://www.ibm.com/think/topics/llm-benchmarks
+- https://www.ibm.com/think/topics/ai-agent-evaluation
 
 ---
 

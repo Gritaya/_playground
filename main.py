@@ -24,10 +24,11 @@ def index_knowledge_base():
     print("Embedding documents... Please wait.")
     doc_embeddings = model.encode(paragraphs, convert_to_numpy=True)
     
-    # Save text and vectors to disk
+    # Save text avectorsnd  to disk
     np.savez("knowledge_cache.npz", paragraphs=paragraphs, embeddings=doc_embeddings)
     print("Indexing complete. Saved to knowledge_cache.npz")
 
+# index and query
 def retrieve_information_hybrid_fast(query: str, top_k: int = 3, semantic_weight: float = 0.5) -> str:
     """Performs hybrid search using pre-computed document embeddings."""
     # Load cached embeddings and text
@@ -86,7 +87,8 @@ def data_retriever_node(state: AgentState) -> dict:
 # 5. Agent 2: Report Generator Node
 def report_generator_node(state: AgentState) -> dict:
     print("--> [Report Generator] Synthesizing final answer...")
-    
+
+    # system has specific format
     sys_msg = SystemMessage(
         content="You are an expert report generator. Using ONLY the provided information snippets, "
                 "synthesize a cohesive, non-redundant, and well-formatted answer to the user's query. "
